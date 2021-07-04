@@ -1,0 +1,16 @@
+F:\visualStudios\simpleGradientDescent\simpleGradientDescent\bin\Debug\net5.0\simpleGradientDescent.exe
+F:\visualStudios\simpleGradientDescent\simpleGradientDescent\bin\Debug\net5.0\simpleGradientDescent.deps.json
+F:\visualStudios\simpleGradientDescent\simpleGradientDescent\bin\Debug\net5.0\simpleGradientDescent.runtimeconfig.json
+F:\visualStudios\simpleGradientDescent\simpleGradientDescent\bin\Debug\net5.0\simpleGradientDescent.runtimeconfig.dev.json
+F:\visualStudios\simpleGradientDescent\simpleGradientDescent\bin\Debug\net5.0\simpleGradientDescent.dll
+F:\visualStudios\simpleGradientDescent\simpleGradientDescent\bin\Debug\net5.0\ref\simpleGradientDescent.dll
+F:\visualStudios\simpleGradientDescent\simpleGradientDescent\bin\Debug\net5.0\simpleGradientDescent.pdb
+F:\visualStudios\simpleGradientDescent\simpleGradientDescent\obj\Debug\net5.0\simpleGradientDescent.csproj.AssemblyReference.cache
+F:\visualStudios\simpleGradientDescent\simpleGradientDescent\obj\Debug\net5.0\simpleGradientDescent.GeneratedMSBuildEditorConfig.editorconfig
+F:\visualStudios\simpleGradientDescent\simpleGradientDescent\obj\Debug\net5.0\simpleGradientDescent.AssemblyInfoInputs.cache
+F:\visualStudios\simpleGradientDescent\simpleGradientDescent\obj\Debug\net5.0\simpleGradientDescent.AssemblyInfo.cs
+F:\visualStudios\simpleGradientDescent\simpleGradientDescent\obj\Debug\net5.0\simpleGradientDescent.csproj.CoreCompileInputs.cache
+F:\visualStudios\simpleGradientDescent\simpleGradientDescent\obj\Debug\net5.0\simpleGradientDescent.dll
+F:\visualStudios\simpleGradientDescent\simpleGradientDescent\obj\Debug\net5.0\ref\simpleGradientDescent.dll
+F:\visualStudios\simpleGradientDescent\simpleGradientDescent\obj\Debug\net5.0\simpleGradientDescent.pdb
+F:\visualStudios\simpleGradientDescent\simpleGradientDescent\obj\Debug\net5.0\simpleGradientDescent.genruntimeconfig.cache
