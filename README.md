@@ -7,6 +7,9 @@ This is just a proof of concept, and to help anyone trying to implement a gradie
 
 To fully understand this, I would suggest you learn about derivatives, partial derivatives, and gradients (fancy word for multidimensional derivative).
 
+## Math for Calculating the Descending Gradient:
+![math moment](mathImages/calcDGMaths.png)
+
 ## Resources I Used:
 1. https://en.wikipedia.org/wiki/Derivative
 2. https://www.youtube.com/watch?v=-aTLjoDT1GQ
